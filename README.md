@@ -1,4 +1,3 @@
-# Premier-League-Home-Advantage
 # Did crowds drive home advantage in the Premier League?
 
 ## Question
